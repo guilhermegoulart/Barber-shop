@@ -1,0 +1,77 @@
+.titulo-principal{
+   font-size: 32px;
+   font-weight: 500;
+   font-family: 'Open Sans', sans-serif;
+   margin-left: 8px;
+   margin-top: 12px;
+   margin-bottom:16px;
+}
+
+body{
+   margin: auto;
+}
+
+.banner {
+   width: 100%;
+ }
+
+ .sobre-barbearia {
+   background-color: #FFFFFF;
+   padding: 30px;
+ }
+
+.titulo-centralizado {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+
+ .descricao {
+   text-align: justify;
+ }
+
+p {
+   text-align: justify;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px ;
+   margin-top: 12px;
+   margin-bottom: 12px;
+   margin-left: 6px;
+   margin-right: 6px;
+ }
+
+.missao {
+    font-size: 20px;
+ }
+
+em strong {
+    color: #FF0063;
+ }
+
+.beneficios {
+   background-color: #EAF6F6;
+   font-size: 22px;
+   padding: 20px;
+} 
+
+ul {
+   display: inline-block;
+   vertical-align:top ;
+   width: 20%;
+   margin-right: 15%;
+}
+
+ul li {
+   margin: 10%;
+} 
+
+.itens {
+   font-style: italic;
+}
+
+.beneficiosImg {
+   width: 50%;
+   margin-left: 12%;
+}
